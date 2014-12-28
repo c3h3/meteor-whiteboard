@@ -7,3 +7,5 @@
 meteor-platform
 coffeescript
 mquandalle:jade
+insecure
+autopublish
